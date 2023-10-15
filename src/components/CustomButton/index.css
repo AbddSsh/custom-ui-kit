@@ -1,0 +1,43 @@
+.btn {
+  color: #fff;
+  border-radius: 15px;
+  padding: 10px;
+  white-space: nowrap;
+  border: none;
+  text-align: center;
+  background: #1f93c5;
+}
+
+.btn_small {
+  font-size: 10px;
+  border-radius: 5px;
+  padding: 5px 10px;
+}
+
+.btn_large {
+  font-size: 20px;
+  padding: 20px;
+}
+
+.btn_outlined {
+  color: #1f93c5;
+  border: 1px solid #1f93c5;
+  background: #ffffff;
+}
+
+.btn_errored {
+  color: #a71e1e;
+  border: 1px solid rgb(139, 30, 30);
+  background: #ffffff;
+}
+
+.btn_successed {
+  color: rgb(29, 131, 82);
+  border: 1px solid rgb(26, 104, 66);
+  background: #ffffff;
+}
+
+.btn_disabled {
+  background: #dbdbdb;
+  color: #9c9c9c;
+}
